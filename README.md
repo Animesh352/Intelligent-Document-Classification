@@ -1,4 +1,4 @@
-# Intelligent-Document-Classifier
+# Intelligent-Document-Classification
 
 •	Developed a document classifier to automatically classify a large number of document files into five major document types based on the image and text recognition techniques.
 
